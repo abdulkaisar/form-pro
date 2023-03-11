@@ -1,0 +1,27 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+html
+{
+background-color: aqua;
+h1{
+    color:blue;
+}
+}
+
+#firstname{
+    color: blue;
+}
+
+.last-name{
+    color: rgb(255, 0, 166);
+}
+
+input.last-name{
+    color: brown;
+}
+
